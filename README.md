@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**Adwirawien/Adwirawien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a german student in 10th grade, interested in web and IoT stuff 🤖
 
-Here are some ideas to get you started:
+**💙 What I like to work with:**
+- NodeJS
+- Svelte/React
+- Swift
+- Python (occasionally)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📦 What I am working on:**
+
+
+- CosmicSail
+> ⛵️ An intelligent way to control rc vehicles from your phone and let them drive autonomously 
+
+
+- Transportflow
+> 🦜 A super fast and simple way to access public transport departures in germany 
