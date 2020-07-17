@@ -6,6 +6,7 @@ I am a german student in 10th grade, interested in web and IoT stuff 🤖
 - NodeJS
 - Svelte/React
 - Swift
+- Java (occasionally)
 - Python (occasionally)
 
 **📦 What I am working on:**
