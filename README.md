@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am a german student in 10th grade, interested in web, mobile and IoT stuff 🤖
+I am a german student in 10th grade, interested in web, mobile and IoT stuff.
 
 **💙 What I like to work with:**
 - NodeJS
