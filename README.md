@@ -13,8 +13,8 @@ I am a german student in 10th grade, interested in web, mobile and IoT stuff.
 
 
 - CosmicSail
-> ⛵️ An intelligent way to control rc vehicles from your phone and let them drive autonomously 
+> ⛵️ Convenient way to control rc vehicles from your phone and let them drive autonomously 
 
 
 - Transportflow
-> 🦜 A super fast and simple way to access public transport departures in germany 
+> 🦜 Super fast and simple way to access public transport departures in germany 
