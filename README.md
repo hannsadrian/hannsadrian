@@ -1,20 +1,18 @@
-### Hello there 👋
+## Hello there 👋
 
 I am a german student in 10th grade, interested in web, mobile and IoT stuff.
 
-**💙 What I like to work with:**
-- NodeJS
-- Svelte/React
-- Swift
-- Java (occasionally)
-- Python (occasionally)
+#### 💙 What I like to work with:
+*Programming languages*<br>
+NodeJS, Svelte/React, Swift, Java, C#, Python
 
-**📦 What I am working on:**
+*Technologies*<br>
+Mac OS, Docker, Kubernetes
 
+#### 📦 What I am working on:
 
-- CosmicSail
-> ⛵️ Convenient way to control rc vehicles from your phone and let them drive autonomously 
+**CosmicSail**<br>
+⛵️ Convenient way to control rc vehicles from your phone and let them drive autonomously 
 
-
-- Transportflow
-> 🦜 Super fast and simple way to access public transport departures in germany 
+**Transportflow**<br>
+🦜 Super fast and simple way to access public transport departures in germany 
