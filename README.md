@@ -6,8 +6,8 @@ I am a german student in 10th grade, interested in web, mobile and IoT stuff.
 *Programming languages*<br>
 NodeJS, Svelte/React, Swift, Java, C#, Python
 
-*Technologies*<br>
-Mac OS, Docker, Kubernetes
+*Tech*<br>
+Mac OS, Docker, Kubernetes, RaspberryPi
 
 #### 📦 What I am working on:
 
