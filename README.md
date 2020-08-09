@@ -3,7 +3,7 @@
 I am a german student in 10th grade, interested in web, mobile and IoT stuff.
 
 #### 💙 What I like to work with:
-*Programming languages*<br>
+*Programming*<br>
 NodeJS, Svelte/React, Swift, Java, C#, Python
 
 *Tech*<br>
