@@ -14,8 +14,8 @@ Mac OS, Docker, Kubernetes, RaspberryPi
 
 #### 📦 What I am working on:
 
-**CosmicSail**<br>
+**[CosmicSail](https://github.com/Adwirawien/CosmicSail)**<br>
 ⛵️ Convenient way to control rc vehicles from your phone and let them drive autonomously 
 
-**Transportflow**<br>
+**[Transportflow](https://github.com/Transportflow/Transportflow-Web)**<br>
 🦜 Super fast and simple way to access public transport departures in germany 
