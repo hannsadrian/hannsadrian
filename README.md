@@ -1,24 +1,23 @@
-## Hello there 👋
+### Hi, I'm Adrian 👋🏻
+&nbsp;&nbsp;&nbsp;I am a german student in 10th grade, interested in web, mobile, and IoT stuff.
 
-I am a german student in 10th grade, interested in web, mobile, and IoT stuff.
+#### 💙 What I like to work with:
+&nbsp;&nbsp;&nbsp;*Programming*<br>
+&nbsp;&nbsp;&nbsp;**[React](https://reactjs.org)**, **[Golang](https://golang.org)**, Swift, (NodeJS, Java, Python, C#, Svelte)
 
-### 💙 What I like to work with:
-*Programming*<br>
-**[React](https://reactjs.org)**, **[Golang](https://golang.org)**, Swift, (NodeJS, Java, Python, C#, Svelte)
+&nbsp;&nbsp;&nbsp;*Layout*<br>
+&nbsp;&nbsp;&nbsp;**[TailwindCSS](https://tailwindcss.com)**, **[Inter font](https://rsms.me/inter/)**, Ionicons
 
-*Layout*<br>
-**[TailwindCSS](https://tailwindcss.com)**, **[Inter font](https://rsms.me/inter/)**, Ionicons
+&nbsp;&nbsp;&nbsp;*Tech*<br>
+&nbsp;&nbsp;&nbsp;**[Kubernetes](https://kubernetes.io)**, **[MacOS](https://www.apple.com/macos/)**, RaspberryPi, Docker
 
-*Tech*<br>
-**[Kubernetes](https://kubernetes.io)**, **[MacOS](https://www.apple.com/macos/)**, RaspberryPi, Docker
+#### 📦 What I am working on:
 
-### 📦 What I am working on:
+&nbsp;&nbsp;&nbsp;**[CosmicSail](https://github.com/Adwirawien/CosmicSail)**<br>
+&nbsp;&nbsp;&nbsp;⛵️ Convenient way to control rc vehicles from your phone and let them drive autonomously 
 
-**[CosmicSail](https://github.com/Adwirawien/CosmicSail)**<br>
-⛵️ Convenient way to control rc vehicles from your phone and let them drive autonomously 
+&nbsp;&nbsp;&nbsp;**[Emojigamble](https://github.com/Adwirawien/Emojigamble)**<br>
+&nbsp;&nbsp;&nbsp;🕹 TicTacToe, 4wins, and Battleship, but instead of using X and O, you play with emojis
 
-**[Emojigamble](https://github.com/Adwirawien/Emojigamble)**<br>
-🕹 TicTacToe, 4wins, and Battleship, but instead of using X and O, you play with emojis
-
-**[Transportflow](https://github.com/Transportflow/Transportflow-Web)**<br>
-🦜 Super fast and simple way to access public transport departures in germany 
+&nbsp;&nbsp;&nbsp;**[Transportflow](https://github.com/Transportflow/Transportflow-Web)**<br>
+&nbsp;&nbsp;&nbsp;🦜 Super fast and simple way to access public transport departures in germany 
