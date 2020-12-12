@@ -1,16 +1,16 @@
 ## Hello there 👋
 
-I am a german student in 10th grade, interested in web, mobile and IoT stuff.
+I am a german student in 10th grade, interested in web, mobile, and IoT stuff.
 
 ### 💙 What I like to work with:
 *Programming*<br>
-**React**, **Golang**, Swift, (Java, NodeJS, Python, C#, Svelte)
+**[React](https://reactjs.org)**, **[Golang](https://golang.org)**, Swift, (NodeJS, Java, Python, C#, Svelte)
 
 *Layout*<br>
-**TailwindCSS**, **Inter font**, Ionicons
+**[TailwindCSS](https://tailwindcss.com)**, **[Inter font](https://rsms.me/inter/)**, Ionicons
 
 *Tech*<br>
-**Kubernetes**, **RaspberryPi**, Docker, Mac OS
+**[Kubernetes](https://kubernetes.io)**, **[MacOS](https://www.apple.com/macos/)**, RaspberryPi, Docker
 
 ### 📦 What I am working on:
 
