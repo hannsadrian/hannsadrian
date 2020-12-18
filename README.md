@@ -16,7 +16,7 @@
 &nbsp;&nbsp;&nbsp;**[CosmicSail](https://github.com/Adwirawien/CosmicSail)**<br>
 &nbsp;&nbsp;&nbsp;⛵️ Convenient way to control rc vehicles from your phone and let them drive autonomously 
 
-&nbsp;&nbsp;&nbsp;**[Emojigamble](https://github.com/Adwirawien/Emojigamble)**<br>
+&nbsp;&nbsp;&nbsp;**[Emojigamble](https://github.com/Emojigamble)**<br>
 &nbsp;&nbsp;&nbsp;🕹 TicTacToe, 4wins, and Battleship, but instead of using X and O, you play with emojis
 
 &nbsp;&nbsp;&nbsp;**[Transportflow](https://github.com/Transportflow/Transportflow-Web)**<br>
