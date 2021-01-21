@@ -14,7 +14,7 @@ I am a german student in 10th grade, interested in web, mobile, and IoT stuff.
 #### 📦 What I am working on:
 
 **[CosmicSail](https://github.com/Adwirawien/CosmicSail)**<br>
-⛵️ Convenient way to control rc vehicles from your phone and let them drive autonomously 
+⛵️ Replacing global cargo shipment with autonomous sailing vessels
 
 **[Emojigamble](https://github.com/Emojigamble)**<br>
 🕹 TicTacToe, 4wins, and Battleship, but instead of using X and O, you play with emojis
