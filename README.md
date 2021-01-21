@@ -17,7 +17,7 @@ I am a german student in 10th grade, interested in web, mobile, and IoT stuff.
 ⛵️ Replacing global cargo shipment with autonomous sailing vessels
 
 **[Emojigamble](https://github.com/Emojigamble)**<br>
-🕹 TicTacToe, 4wins, and Battleship, but instead of using X and O, you play with emojis
+🕹 TicTacToe, connect4, and Battleship, but instead of using X and O, you play with emojis
 
 **[Transportflow](https://github.com/Transportflow/Transportflow-Web)**<br>
-🦜 Super fast and simple way to access public transport departures in germany 
+🚍 Public Transport Departures. One click away.
