@@ -3,7 +3,7 @@ I am a german student in 10th grade, interested in web, mobile, and IoT stuff.
 
 #### 💙 What I like to work with:
 *Programming*<br>
-**[React](https://reactjs.org)**, **[Golang](https://golang.org)**, Swift, (NodeJS, Java, Python, C#, Svelte)
+**[React](https://reactjs.org)**, **[Golang](https://golang.org)**, Python, Swift, (NodeJS, Java, C#, Svelte)
 
 *Layout*<br>
 **[TailwindCSS](https://tailwindcss.com)**, **[Inter font](https://rsms.me/inter/)**, Ionicons
