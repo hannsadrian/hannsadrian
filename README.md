@@ -1,9 +1,10 @@
 ### Hi, I'm Adrian 👋🏻
-I am a german student in 10th grade, interested in web, mobile, and IoT stuff.
+I am a german student in 11th grade, interested in web, mobile, and IoT stuff.<br/>
+Currently working at TiBaTec.
 
-#### 💙 What I like to work with:
+#### 💙 My favorites:
 *Programming*<br>
-**[React](https://reactjs.org)**, **[Golang](https://golang.org)**, Python, Swift, (NodeJS, Java, C#, Svelte)
+**[React](https://reactjs.org)**, **[Golang](https://golang.org)**, Typescript, Swift, (NodeJS, C#, Java)
 
 *Layout*<br>
 **[TailwindCSS](https://tailwindcss.com)**, **[Inter font](https://rsms.me/inter/)**, Ionicons
@@ -11,7 +12,7 @@ I am a german student in 10th grade, interested in web, mobile, and IoT stuff.
 *Tech*<br>
 **[Kubernetes](https://kubernetes.io)**, **[MacOS](https://www.apple.com/macos/)**, RaspberryPi, Docker
 
-#### 📦 What I am working on:
+#### 📦 My projects:
 
 **[CosmicSail](https://github.com/Adwirawien/CosmicSail)**<br>
 ⛵️ Replacing global cargo shipment with autonomous sailing vessels
