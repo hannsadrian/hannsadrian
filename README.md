@@ -11,14 +11,3 @@ Currently working at TiBaTec.
 
 *Tech*<br>
 **[Kubernetes](https://kubernetes.io)**, **[MacOS](https://www.apple.com/macos/)**, RaspberryPi, Docker
-
-#### 📦 My projects:
-
-**[CosmicSail](https://github.com/Adwirawien/CosmicSail)**<br>
-⛵️ Replacing global cargo shipment with autonomous sailing vessels
-
-**[Emojigamble](https://github.com/Emojigamble)**<br>
-🕹 TicTacToe, connect4, and Battleship, but instead of using X and O, you play with emojis
-
-**[Transportflow](https://github.com/Transportflow/Transportflow-Web)**<br>
-🚍 Public Transport Departures. One click away.
