@@ -1,13 +1,7 @@
-### Hi, I'm Adrian 👋🏻
-I am a german student in 11th grade, interested in web, mobile, and IoT stuff.<br/>
-Currently working at TiBaTec.
+### Hello hello! 👋
+I am Adrian, a german student in 11th grade and work at TiBaTec.<br/>
+In my freetime I like to develop cool software and hardware.
 
-#### 💙 My favorites:
-*Programming*<br>
-**[React](https://reactjs.org)**, **[Golang](https://golang.org)**, Typescript, Swift, (NodeJS, C#, Java)
-
-*Layout*<br>
-**[TailwindCSS](https://tailwindcss.com)**, **[Inter font](https://rsms.me/inter/)**, Ionicons
-
-*Tech*<br>
-**[Kubernetes](https://kubernetes.io)**, **[MacOS](https://www.apple.com/macos/)**, RaspberryPi, Docker
+🧡 **Go** and **Javascript** <br/>
+💛 **macOS** and **RaspberryPi** <br/>
+💙 **Tailwind** and **Emojis** 😜🥭🚀 <br/>
