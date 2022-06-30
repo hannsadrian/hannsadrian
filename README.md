@@ -1,7 +1,6 @@
 ### Hello hello! 👋
-I am Adrian, a german student in 11th grade and work at TiBaTec.<br/>
-In my freetime I like to develop cool software and hardware.
+I am Adrian, a german student in 11th grade. 
+Besides school I work at TiBaTec, a small german IT-Agency 
+and in my freetime I like to develop cool software and hardware.
 
-🧡 **Go** and **Javascript** <br/>
-💛 **macOS** and **RaspberryPi** <br/>
-💙 **Tailwind** and **Emojis** 😜🥭🚀 <br/>
+I'm passionate about mobility and a better future.
